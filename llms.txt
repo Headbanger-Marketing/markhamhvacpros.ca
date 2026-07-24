@@ -1,0 +1,26 @@
+# Markham HVAC Pros
+
+> Markham HVAC Pros is a local HVAC company serving Markham, York Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 472-8537  |  Email: contact@markhamhvacpros.ca  |  Website: https://markhamhvacpros.ca
+
+Service areas: Markham, Richmond Hill, Newmarket, Aurora, Vaughan, Keswick, Stouffville, King City
+
+## Key pages
+
+- [Home](https://markhamhvacpros.ca/): Markham HVAC Pros homepage with service overview and FAQ
+- [About](https://markhamhvacpros.ca/about/): About the company and service area
+- [Contact](https://markhamhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://markhamhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Markham, Ontario
+- [AC Installation & Repair](https://markhamhvacpros.ca/services/ac-repair/): AC Installation & Repair in Markham, Ontario
+- [Heat Pumps](https://markhamhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Markham, Ontario
+- [Duct Cleaning](https://markhamhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Markham, Ontario
+- [Thermostats](https://markhamhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Markham, Ontario
+- [Ductless AC Installation](https://markhamhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Markham, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Markham are answered on the homepage.
